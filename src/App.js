@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Jumbotron />
       <Content /><br/>
-      <Testimonial />
+      <Testimonial /><br/>
       <Foot />
     </div>
   );
