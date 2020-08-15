@@ -5,6 +5,7 @@ const Content=()=>{
         <React.Fragment>
             <center>
             <h2><strong>Why People Choose Us Over The Rest.</strong></h2><br/><br/>
+            
             <img src="https://drive.google.com/thumbnail?id=1Su3iDZuy4MYwvYDZwc_8n03qk10Uki-U" alt="Professionalism" /><br/><br/>
             <h5><strong>HAND CURATED PROFESSIONALISM</strong></h5><br />
             <p>Buying? Selling? Financing? No Problem. Our team is hand selected<br /> from the best professionals in each specific area of Real Estate.</p><br/>
@@ -20,6 +21,14 @@ const Content=()=>{
             <img src="https://drive.google.com/thumbnail?id=1Yzs3HX7RAwa9Rnoe6bA2OzOUeX5wBf7N" alt="Expertize" /><br/><br/>
             <h5><strong>EXPERTIZE AT EVERY STEP</strong></h5><br />
             <p>From setting the right list price to closing, you'll be<br /> supported by local industry experts.</p><br/>
+
+
+            <div class="btn-group">
+            <button type="button" class="btn btn-info">Sort by Area</button>
+            <button type="button" class="btn btn-info dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            </div>
             </center>
         </React.Fragment>
     );
