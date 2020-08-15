@@ -39,7 +39,7 @@ const Testimonial=()=>{
                 </div>
             </div>
             </div><br/>
-            <center><a href="#">View More</a></center>
+            <center><strong><a href="#">View More</a></strong></center>
         </React.Fragment>
     );
 }
