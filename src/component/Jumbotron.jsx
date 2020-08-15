@@ -20,7 +20,7 @@ const Jumbotron=()=>{
                 <span style={txtstyle}>
                 <h3>GET A $5,000 INTEREST-FREE RENOVATION ADVANCE</h3>
                 <h1><strong>Buy</strong> your home from the<br/> comfort of your couch.</h1><br />
-                <h4>GET REDAY FOR A REAL ESTATE EXPERIENCE<br /> UNLIKE ANY YOU'VE EVER HAD BEFORE.</h4><br />
+                <h4>GET READY FOR A REAL ESTATE EXPERIENCE<br /> UNLIKE ANY YOU'VE EVER HAD BEFORE.</h4><br />
                 <input type="text" className="w-25" style={{textAlign:'center'}} placeholder="City or Postal Code"/>
                 <button type="button" className="btn btn-primary ">SEARCH</button><br />
                 <a href="https://en.wikipedia.org/wiki/Finance" target="_blank">Need Financing</a>
