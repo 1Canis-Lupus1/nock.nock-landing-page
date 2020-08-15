@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar=()=>{
     return(
         <React.Fragment>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-right">
             <a class="navbar-brand" href="#">
             <img src="https://drive.google.com/thumbnail?id=1rv7HQd0IG2pDhx7urQ2zB-MuHiSPprE6" /></a>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">

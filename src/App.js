@@ -4,6 +4,7 @@ import Navbar from './component/Navbar';
 import Jumbotron from './component/Jumbotron';
 import Content from './component/Content';
 import Testimonial from './component/Testimonial';
+import Foot from './component/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Jumbotron />
       <Content /><br/>
       <Testimonial />
+      <Foot />
     </div>
   );
 }
