@@ -12,7 +12,7 @@ const Foot=()=>{
     }
     return(
         <React.Fragment>
-            <div style={{ background: "#49BCF8", height: "calc(40vh)" }}>
+            <div style={{ background: "#49BCF8", height: "calc(50vh)" }}>
             <div class="container" style={footStyle}>
                 <div class="row" style={coloring}>
                     <div class="col-sm">

@@ -1,5 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
+import 'antd/dist/antd.css';
 import Navbar from './component/Navbar';
 import Jumbotron from './component/Jumbotron';
 import Content from './component/Content';
